@@ -1,0 +1,49 @@
+body {
+	background: url(../images/background_pic1.jpg);
+}
+#header {
+	background: #FFF;
+	margin: 0px 20px;
+	padding: 0px;
+	height: 70px;
+	width: 960px;
+	float: left;
+}
+
+
+#apDiv1 {
+	position:absolute;
+	width:291px;
+	height:63px;
+	z-index:1;
+	left: 588px;
+	top: 34px;
+}
+#subHeader {
+	margin: 0px 20px;
+	height: 40px;
+	width: 960px;
+	background: #FFF;
+	float: left;
+}
+#mainContent {
+	margin: 0px 20px;
+	background: #fff;
+	padding: 0px;
+	width: 960px;
+}
+#footer {
+	background: #000;
+	margin: 0px 20px;
+	float: left;
+	height: 20px;
+	width: 960px;
+	clear: both;
+	font-family: Georgia, "Times New Roman", Times, serif;
+	font-size: 12px;
+	font-style: normal;
+	font-weight: normal;
+	color: #999;
+	text-align: center;
+	padding: 10px 0px;
+}

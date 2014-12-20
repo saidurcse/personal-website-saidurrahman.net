@@ -1,0 +1,177 @@
+
+body {
+	background: #bbb url(../images/background_pic1.jpg);
+}
+#header {
+	background: #222 url(../none) no-repeat;
+	width: 960px;
+	margin: -15px 20px 0px;
+	float: left;
+	height: 110px;
+}
+#mainContent {
+	background: #fff;
+	margin: 0px 20px;
+	float: left;
+	width: 960px;
+}
+#submainContent {
+	background: #FFF;
+	margin: 0px 20px;
+	float: left;
+	height: 220px;
+	width: 960px;
+}
+#footer {
+	background: #000;
+	margin: 0px 20px;
+	float: left;
+	height: 20px;
+	width: 960px;
+	clear: both;
+	font-family: Georgia, "Times New Roman", Times, serif;
+	font-size: 12px;
+	font-style: normal;
+	font-weight: normal;
+	color: #999;
+	text-align: center;
+	padding: 10px 0px;
+}
+#picture1 {
+	margin: 35px 8px 0px;
+	padding: 0px;
+	height: 160px;
+	width: 175px;
+	border-top: none;
+	border-right: none;
+	border-bottom: none;
+	border-left: none;
+	float: left;
+}
+#picture2 {
+	margin: 35px 8px 0px;
+	padding: 0px;
+	float: left;
+	height: 160px;
+	width: 175px;
+}
+#picture3 {
+	margin: 35px 8px 0px;
+	padding: 0px;
+	float: left;
+	height: 160px;
+	width: 175px;
+}
+#picture4 {
+	margin: 35px 8px 0px;
+	padding: 0px;
+	float: left;
+	height: 160px;
+	width: 175px;
+}
+#picture5 {
+	margin: 35px 8px 0px;
+	padding: 0px;
+	float: left;
+	height: 160px;
+	width: 175px;
+}
+#picCaption1 {
+	font-family: "Comic Sans MS", cursive;
+	font-size: large;
+	font-style: normal;
+	font-weight: lighter;
+	color: #999;
+	text-decoration: none;
+}
+a {
+	text-decoration: none;
+	font-style: normal;
+	font-weight: lighter;
+	color: #999;
+}
+
+#picCaption1_1 {
+	font-family: "Comic Sans MS", cursive;
+	font-size: large;
+	font-style: normal;
+	font-weight: lighter;
+	color: #999;
+	border-color: #FFF;
+}
+
+#picCaption2 {
+	font-family: "Comic Sans MS", cursive;
+	font-size: large;
+	font-style: normal;
+	font-weight: lighter;
+	color: #999;
+}
+#picCaption2_2 {
+	font-family: "Comic Sans MS", cursive;
+	font-size: large;
+	font-style: normal;
+	font-weight: lighter;
+	color: #999;
+}
+
+#picCaption3 {
+	font-family: "Comic Sans MS", cursive;
+	font-size: large;
+	font-style: normal;
+	font-weight: lighter;
+	color: #999;
+}
+#picCaption3_3 {
+	font-family: "Comic Sans MS", cursive;
+	font-size: large;
+	font-style: normal;
+	font-weight: lighter;
+	color: #999;
+}
+
+#picCaption4 {
+	font-family: "Comic Sans MS", cursive;
+	font-size: large;
+	font-style: normal;
+	font-weight: lighter;
+	color: #999;
+}
+#picCaption4_4 {
+	font-family: "Comic Sans MS", cursive;
+	font-size: large;
+	font-style: normal;
+	font-weight: lighter;
+	color: #999;
+}
+
+#picCaption5 {
+	font-family: "Comic Sans MS", cursive;
+	font-size: large;
+	font-style: normal;
+	font-weight: lighter;
+	color: #999;
+}
+#picCaption5_5 {
+	font-family: "Comic Sans MS", cursive;
+	font-size: large;
+	font-style: normal;
+	font-weight: lighter;
+	color: #999;
+}
+
+#pictureImage1 {
+	border: thin solid #999;
+}
+#pictureImage2 {
+	border: thin solid #333;
+}
+#pictureImage3 {
+	border: thin solid #333;
+}
+#pictureImage4 {
+	border: thin solid #333;
+}
+#pictureImage5 {
+	border: thin solid #333;
+}

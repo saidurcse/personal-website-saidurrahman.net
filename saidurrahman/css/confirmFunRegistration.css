@@ -1,0 +1,31 @@
+#apDiv2 {
+	position:absolute;
+	width:200px;
+	height:115px;
+	z-index:2;
+	left: 128px;
+	top: 224px;
+}
+#mainContent1 {
+	margin: 0px;
+	padding: 0px;
+	height: 500px;
+}
+
+#mainContentLast {
+	height: 30px;
+	margin: 0px auto;
+	text-align: center;
+}
+#mainContentLast1 {
+	height: 100px;
+}
+#mainContentLast2 {
+	height: 100px;
+}
+a {
+	text-decoration: none;
+	font-style: normal;
+	font-weight: lighter;
+	color: #999;
+}

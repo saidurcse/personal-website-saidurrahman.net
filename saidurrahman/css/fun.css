@@ -1,0 +1,123 @@
+#mainFunFlash {
+	position:absolute;
+	width:572px;
+	height:445px;
+	z-index:2;
+	left: 300px;
+	top: 145px;
+}
+#hitCounter {
+	position:absolute;
+	width:263px;
+	height:23px;
+	z-index:3;
+	top: 656px;
+	left: 109px;
+}
+#userComment {
+	position:absolute;
+	width:584px;
+	height:28px;
+	z-index:4;
+	left: 373px;
+	top: 675px;
+}
+#mainContent1 {
+	margin: 0px;
+	padding: 0px;
+	height: 695px;
+}
+#mainContentLast {
+	height: 30px;
+	margin: 0px auto;
+	text-align: center;
+}
+#regLayer {
+	position:absolute;
+	width:179px;
+	height:33px;
+	z-index:5;
+	left: 734px;
+	top: 148px;
+}
+#heading2 {
+	font-family: Georgia, "Times New Roman", Times, serif;
+	font-size: 16px;
+	font-style: normal;
+	font-weight: normal;
+	color: #666;
+}
+
+#heading2_1 {
+	font-family: Georgia, "Times New Roman", Times, serif;
+	font-size: 16px;
+	font-style: normal;
+	font-weight: normal;
+	color: #666;
+}
+#heading2_2 {
+	font-family: Georgia, "Times New Roman", Times, serif;
+	font-size: 16px;
+	font-style: normal;
+	font-weight: normal;
+	color: #666;
+}
+#heading2_3 {
+	font-family: Georgia, "Times New Roman", Times, serif;
+	font-size: 16px;
+	font-style: normal;
+	font-weight: normal;
+	color: #666;
+}
+#heading2_4 {
+	font-family: Georgia, "Times New Roman", Times, serif;
+	font-size: 16px;
+	font-style: normal;
+	font-weight: normal;
+	color: #666;
+}
+#heading3 {
+	font-family: Georgia, "Times New Roman", Times, serif;
+	font-size: 18px;
+	font-style: normal;
+	font-weight: bold;
+	color: #333;
+}
+#heading3_1 {
+	font-family: Georgia, "Times New Roman", Times, serif;
+	font-size: 18px;
+	font-style: normal;
+	font-weight: bold;
+	color: #333;
+}
+
+
+a {
+	text-decoration: none;
+	font-style: normal;
+	font-weight: lighter;
+	color: #999;
+}
+#apDiv2 {
+	position:absolute;
+	width:33px;
+	height:34px;
+	z-index:5;
+	left: 810px;
+	top: 127px;
+}
+#apDiv3 {
+	position:absolute;
+	width:625px;
+	height:456px;
+	z-index:5;
+	left: 166px;
+	top: 126px;
+}
+#apDiv4 {	position:absolute;
+	width:35px;
+	height:35px;
+	z-index:4;
+	left: 810px;
+	top: 127px;
+}
